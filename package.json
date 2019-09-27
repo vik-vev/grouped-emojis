@@ -1,0 +1,39 @@
+{
+  "_from": "grouped-emojis",
+  "_id": "grouped-emojis@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-bMuQaRmoBOBKavP32WRsWu7vDox8gxJxQs0j39IlAUlh6K6IYVTghf9oRC8Mi5WYaYp7Voo8o1K8Azj6MbUnHA==",
+  "_location": "/grouped-emojis",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "grouped-emojis",
+    "name": "grouped-emojis",
+    "escapedName": "grouped-emojis",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/grouped-emojis/-/grouped-emojis-1.0.0.tgz",
+  "_shasum": "e020e6ebfb51ef607154b48377115136ea9e5a93",
+  "_spec": "grouped-emojis",
+  "_where": "/Users/vikkalkat/Documents/Developer/test/custom_data_test",
+  "author": {
+    "name": "vik"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "emojis in groups",
+  "license": "ISC",
+  "main": "grouped-emojis.json",
+  "name": "grouped-emojis",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
